@@ -1,0 +1,11 @@
+npm strat
+
+json-server --watch db.json
+
+json-server -p 4000 --watch employees.json
+
+
+C:\Users\services\AppData\Roaming\npm\json-server
+
+
+xars kibana 
